@@ -109,6 +109,7 @@ void SearchByNishe(fstream& out) {
 			cout << b << endl;
 		}
 	}
+
 }
 void Add(fstream& out) {
 	string a;
